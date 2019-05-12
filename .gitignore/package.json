@@ -9,7 +9,8 @@
     "author": "TortosLaTortue 🐢",
     "license": "ISC",
     "dependencies": {
-        "discord.js": "^11.2.1"
+        "discord.js": "^11.2.1",
+        "graceful-fs": "^4.1.3"
 
     }
 }
