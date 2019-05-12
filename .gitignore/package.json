@@ -1,0 +1,15 @@
+{
+    "name": "robotortue",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scriptes": {
+        "teat": "echo \"Error: no teat apectified\" && exit l"
+    },
+    "author": "TortosLaTortue 🐢",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^11.2.1"
+
+    }
+}
